@@ -8,3 +8,4 @@ eclair
 salmon
 
 peaches
+pears
